@@ -4,23 +4,23 @@ Welcome to My Projects repository! Here, you'll find a collection of projects I 
 
 ## Projects Overview:
 
-### 1. [Project 1](): **Classification of Children Chest X-rays in search for Covid ** 
+### 1. [Project 1](): **Classification of Children Chest X-rays in search for Covid** 
 
 - 
 - 💻**Technologies used**: Python, Keras, Deep Learning, 
 - ⭐**Highlights**: 
 
-### 2. [Project 2](): **Anticipating countires targeted by GreenPeace** 🌳
+### 2. [Project 2](): **Electrocardiogram Analysis during Exercise** 📈
 
-- Analysis of countries in terms of CO2 emission and energy production from renewable sources.
+- 
 - 💻**Technologies used**: Python, Scikit-Learn, Pandas, Seaborn.
-- ⭐**Highlights**: The amount of produced renewable energy does not match ecological character of a given country.
+- ⭐**Highlights**:
+  
+### 3. [Project 3](): **Classification of Bengin and Malignant Skin Lesions**
 
-### 3. [Project 3](https://github.com/PoiPon00/bootcamp-projects/tree/main/Projekt%20ML%20Medical%20Insurance): **Predicting medical inusrance Cost** 🚑
-
-- Determining health costs based on the insured person's physical characteristics.
-- 💻**Technologies used**: Linear and Polynomial Regression, Decision Tree, Radom Forest.
-- ⭐**Highlights**: The biggest factor contributing to extensivly higher insurance is addiction to smoking.
+- 
+- 💻**Technologies used**: 
+- ⭐**Highlights**: 
 
 ## How to Use:
 
