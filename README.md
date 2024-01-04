@@ -4,19 +4,19 @@ Welcome to My Projects repository! Here, you'll find a collection of projects I 
 
 ## Projects Overview:
 
-### 1. [Project 1](): **Classification of Children Chest X-rays in search for Covid** 
+### 1. [Project 1](): **Classification of Children Chest X-rays in search for Covid** 🌐🩺
 
-- 
+- Understanding the issues of medical image classification and implementing an algorithm for recognizing chest X-ray images of sick and healthy people using various convolutional neural networks and comparison of their performance.
 - 💻**Technologies used**: Python, Keras, Deep Learning, 
-- ⭐**Highlights**: 
+- ⭐**Highlights**: Best results were achieved using DenseNet121 with recall 95%.
 
-### 2. [Project 2](): **Electrocardiogram Analysis during Exercise** 📈
+### 2. [Project 2](): **Electrocardiogram Analysis during Exercise** 📈🏃‍♂️
 
 - 
 - 💻**Technologies used**: Python, Scikit-Learn, Pandas, Seaborn.
 - ⭐**Highlights**:
   
-### 3. [Project 3](): **Classification of Bengin and Malignant Skin Lesions**
+### 3. [Project 3](): **Classification of Bengin and Malignant Skin Lesions** 🩹🔍
 
 - 
 - 💻**Technologies used**: 
