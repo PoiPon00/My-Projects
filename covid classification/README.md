@@ -26,6 +26,4 @@ Welcome to the ... project! This repository contains an exploration of the physi
 📧 Email: piwargabriela@gmail.com <br>
 🔗 LinkedIn: [LinkedIn/Gabriela-Piwar](https://www.linkedin.com/in/gabriela-piwar)
 
-Other Team Members GitHub Profiles: <br> [Szymon Cyranowicz](https://github.com/szymoncyranowicz)<br>[Łukasz Sielicki](https://github.com/2023SIL) <br> [Katarzyna Figiel](https://github.com/kasiafigiel)
-
 Thanks for exploring the ... project! 🌐🩺
