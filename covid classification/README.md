@@ -15,7 +15,7 @@ Welcome to the ... project! This repository contains an exploration of the physi
    
 1. Clone this repository to your local machine.
 
-       git clone git@github.com:PoiPon00/bootcamp-projects.git
+       git clone git@github.com:PoiPon00/my-projects.git
    
 2. Navigate to path "Projekt SQL NBA" from where you cloned the repository.
    
